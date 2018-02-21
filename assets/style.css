@@ -1,0 +1,33 @@
+body {
+	margin:0;
+	padding:0;
+	background-color: white;
+}
+section {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	width: 100%;
+}
+nav {
+	background-color: black;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 15px;
+}
+li {
+	display: inline-block;
+}
+a {
+	text-decoration: none;
+	margin-right: 20px;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	padding: 15px;
+}
+a:hover {
+	background-color: white;
+	color: black;
+}
